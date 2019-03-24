@@ -14,3 +14,6 @@ A Spring Boot 'getting started' project
 - Once the application is up and running, use the following URL to verify:   
  http://localhost:8181/spring-boot-getting-started/home
 
+ ## Reference
+ - https://spring.io/guides/gs/rest-service/
+
