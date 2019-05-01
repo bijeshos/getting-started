@@ -7,8 +7,8 @@ This repository contains (or provides links to) working versions of a few 'getti
 Nothing fancy! Just the bare minimum stuffs. :-)
 
 Projects in this collection at the moment are: 
-- [spring-boot-getting-started](https://github.com/bijeshos/getting-started/tree/master/spring-boot-getting-started)
-    - A "hello world" spring-boot application
+- [spring-boot-basics-demo](https://github.com/bijeshos/spring-boot-basics-demo)
+    - A "hello world" style spring-boot application
 - [spring-boot-with-docker-demo](https://github.com/bijeshos/spring-boot-with-docker-demo)
     - Dockerized version of a simple spring-boot application
 
