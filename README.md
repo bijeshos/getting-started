@@ -1,6 +1,6 @@
 # Getting Started
 
-This repository provides links to working versions of a few 'getting-started' projects. These projects are purposefully kept as simple as possible. They are indended to be used as a stepping stope in getting started with mentioned langauge/framework. 
+This repository provides links to working versions of a few 'getting-started' projects. These projects are purposefully kept as simple as possible. They are indended to be used as a stepping stone in getting started with mentioned langauge/framework. 
 
 Nothing fancy! Just the bare minimum stuffs. :-) 
 
